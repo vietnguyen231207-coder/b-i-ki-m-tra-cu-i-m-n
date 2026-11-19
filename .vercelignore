@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+exports/*.docx
+exports/*.csv
+*.log
+app.py
